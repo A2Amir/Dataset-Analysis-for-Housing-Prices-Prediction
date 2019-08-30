@@ -62,7 +62,7 @@ In this project you will learn
     
     * ANOVA: Analysis of Variance, The Analysis of Variance (ANOVA) is a statistical method used to test whether there are significant differences between the means of two or more groups. ANOVA returns two parameter.
     
-7.  One example of a Data  Model that we will be using is **Simple Linear Regression**.Simple Linear Regression is a method to help us understand the relationship between two variables.
+7.  Simple Linear Regression: One example of a Data  Model that we will be using is Simple Linear Regression.Simple Linear Regression is a method to help us understand the relationship between two variables.
 
 8.  Multiple Linear Regression:is very similar to Simple Linear Regression, but this method is used to explain the relationship between one continuous response (dependent) variable and *two or more* predictor (independent) variables.
 
