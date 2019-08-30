@@ -2,7 +2,7 @@
 
 In this project you will learn
   
-  1.  How to work with missing data?
+1.  How to work with missing data?
 
       *   Steps for working with missing data:
 
@@ -12,7 +12,7 @@ In this project you will learn
 
              * Correct data format
 
-  2.  Data Standardization and normalization
+2.  Data Standardization and normalization
 
 Data is usually collected from different agencies with different formats. (Data Standardization is also a term for a particular type of data normalization, where we subtract the mean and divide by the standard deviation)
 
