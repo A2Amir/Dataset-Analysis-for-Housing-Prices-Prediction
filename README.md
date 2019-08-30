@@ -58,5 +58,7 @@ In this project you will learn
     experimentation.
     </pre>
     * Pearson Correlation: The Pearson Correlation measures the linear dependence between two variables X and Y. The resulting                                    coefficient is a value between -1 and 1
-    * P-value:What is this P-value? The P-value is the probability value that the correlation between these two variables is statistically significant. Normally, we choose a significance level of 0.05, which means that we are 95% confident that the correlation between the variables is significant. 
+    * P-value:What is this P-value? The P-value is the probability value that the correlation between these two variables is statistically significant. Normally, we choose a significance level of 0.05, which means that we are 95% confident that the correlation between the variables is significant.
+    
+    * ANOVA: Analysis of Variance, The Analysis of Variance (ANOVA) is a statistical method used to test whether there are significant differences between the means of two or more groups. ANOVA returns two parameters:
 
