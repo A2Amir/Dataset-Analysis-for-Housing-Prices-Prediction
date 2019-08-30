@@ -14,13 +14,13 @@ In this project you will learn
 
 2.  Data Standardization and normalization
 
-Data is usually collected from different agencies with different formats. (Data Standardization is also a term for a particular type of data normalization, where we subtract the mean and divide by the standard deviation)
+  <pre> Data is usually collected from different agencies with different formats. (Data Standardization is also a term for a particular type of data normalization, where we subtract the mean and divide by the standard deviation)
 
-What is Standardization?
-Standardization is the process of transforming data into a common format which allows the researcher to make the meaningful comparison. 
+  What is Standardization?
+  Standardization is the process of transforming data into a common format which allows the researcher to make the meaningful comparison. 
 
-Why normalization?
-Normalization is the process of transforming values of several variables into a similar range. Typical normalizations include scaling the variable so the variable average is 0, scaling the variable so the variable variance is 1, or scaling variable so the variable values range from 0 to 1.
+  Why normalization?
+  Normalization is the process of transforming values of several variables into a similar range. Typical normalizations include scaling the variable so the variable average is 0, scaling the variable so the variable variance is 1, or scaling variable so the variable values range from 0 to 1.
 
 3.  Distribution of Variables
 4.  Correlation between variables
