@@ -24,21 +24,28 @@ In this project you will learn
   the meaningful comparison. 
 
   Why normalization?
-  Normalization is the process of transforming values of several variables into a similar range.Typical normalizations
-  include scaling the variable so the variable average is 0, scaling the variable so the variable variance is 1, or 
-  scaling variable so the variable values range from 0 to 1.
+  Normalization is the process of transforming values of several variables into a similar range.Typical 
+  normalizations include scaling the variable so the variable average is 0, scaling the variable so the variable 
+  variance is 1, or scaling variable so the variable values range from 0 to 1.
   </pre>
 
 3.  Distribution of Variables
+
 4.  Correlation between variables
-    *  Continuous numerical variables: Continuous numerical variables are variables that may contain any value within some range. Continuous numerical variables can have the type "int64" or "float64". A great way to visualize these variables is by using scatterplots with fitted lines. 
+    *  Continuous numerical variables: Continuous numerical variables are variables that may contain any value 
+        within some range. Continuous numerical variables can have the type "int64" or "float64". A great way to 
+        visualize these variables is by using scatterplots with fitted lines. 
 
         * Positive linear relationship
         * Negative linear relationship
-    * Categorical variables:These are variables that describe a 'characteristic' of a data unit, and are selected from a small group of categories. The categorical variables can have the type "object" or "int64". A good way to visualize categorical variables is by using boxplots.
+    * Categorical variables:These are variables that describe a 'characteristic' of a data unit, and are selected from
+      a small group of categories. The categorical variables can have the type "object" or "int64". A good way to visualize
+      categorical variables is by using boxplots.
+      
     * Descriptive Statistical Analysis
     
-5.  Basic of Grouping: The "groupby" method groups data by different categories. The data is grouped based on one or several variables and analysis is performed on the individual groups.
+5.  Basic of Grouping: The "groupby" method groups data by different categories. The data is grouped based on one or several
+     variables and analysis is performed on the individual groups.
 
 6.  Correlation and Causation:
 
@@ -46,7 +53,8 @@ In this project you will learn
 
    * Causation: the relationship between cause and effect between two variables.
 
-It is important to know the difference between these two and that correlation does not imply causation. Determining  correlation is much simpler  the determining causation as causation may require independent experimentation 
+  It is important to know the difference between these two and that correlation does not imply causation. Determining  
+  correlationis much simpler  the determining causation as causation may require independent experimentation 
     
-   * Pearson Correlation: The Pearson Correlation measures the linear dependence between two variables X and Y. The resulting coefficient is a value between -1 and 1
+   * Pearson Correlation: The Pearson Correlation measures the linear dependence between two variables X and Y. The resulting                                 coefficient is a value between -1 and 1
 
