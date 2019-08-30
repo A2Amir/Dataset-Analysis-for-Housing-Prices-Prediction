@@ -60,5 +60,18 @@ In this project you will learn
     * Pearson Correlation: The Pearson Correlation measures the linear dependence between two variables X and Y. The resulting                                    coefficient is a value between -1 and 1
     * P-value:What is this P-value? The P-value is the probability value that the correlation between these two variables is statistically significant. Normally, we choose a significance level of 0.05, which means that we are 95% confident that the correlation between the variables is significant.
     
-    * ANOVA: Analysis of Variance, The Analysis of Variance (ANOVA) is a statistical method used to test whether there are significant differences between the means of two or more groups. ANOVA returns two parameters:
+    * ANOVA: Analysis of Variance, The Analysis of Variance (ANOVA) is a statistical method used to test whether there are significant differences between the means of two or more groups. ANOVA returns two parameter.
+    
+7.  One example of a Data  Model that we will be using is **Simple Linear Regression**.Simple Linear Regression is a method to help us understand the relationship between two variables.
+
+8.  Multiple Linear Regression:is very similar to Simple Linear Regression, but this method is used to explain the relationship between one continuous response (dependent) variable and *two or more* predictor (independent) variables.
+
+9.  Polynomial Regression: is a particular case of the general linear regression model or multiple linear regression models.We get non-linear relationships by squaring or setting higher-order terms of the predictor variables.There are different orders of polynomial regression.
+
+10. Measures for Evaluation:two very important measures that are often used in Statistics to determine the accuracy of a model are:
+
+    R^2 / R-squared
+    Mean Squared Error (MSE)
+
+
 
