@@ -52,9 +52,10 @@ In this project you will learn
     * Correlation: a measure of the extent of interdependence between variables.
 
     * Causation: the relationship between cause and effect between two variables.
-  <pre>
-  It is important to know the difference between these two and that correlation does not imply causation.Determining
-  correlationis much simpler  the determining causation as causation may require independent experimentation.
-  </pre>
-    * Pearson Correlation: The Pearson Correlation measures the linear dependence between two variables X and Y. The resulting                                 coefficient is a value between -1 and 1
+    <pre>
+    It is important to know the difference between these two and that correlation does not imply causation.
+    Determining correlationis much simpler  the determining causation as causation may require independent 
+    experimentation.
+    </pre>
+    * Pearson Correlation: The Pearson Correlation measures the linear dependence between two variables X and Y. The resulting                                    coefficient is a value between -1 and 1
 
