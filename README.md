@@ -20,7 +20,7 @@ In this project you will learn
   Standardization is the process of transforming data into a common format which allows the researcher to make the meaningful comparison. 
 
   Why normalization?
-  Normalization is the process of transforming values of several variables into a similar range. Typical normalizations include scaling the variable so the variable average is 0, scaling the variable so the variable variance is 1, or scaling variable so the variable values range from 0 to 1.
+  Normalization is the process of transforming values of several variables into a similar range. Typical normalizations include scaling the variable so the variable average is 0, scaling the variable so the variable variance is 1, or scaling variable so the variable values range from 0 to 1. </pre>
 
 3.  Distribution of Variables
 4.  Correlation between variables
