@@ -31,7 +31,7 @@ In this project you will learn
 
 3.  Distribution of Variables
 
-4.  type of variables
+4.  type of variables:
     *  Continuous numerical variables: Continuous numerical variables are variables that may contain any value 
         within some range. Continuous numerical variables can have the type "int64" or "float64". A great way to 
         visualize these variables is by using scatterplots with fitted lines. 
